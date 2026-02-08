@@ -1,0 +1,2 @@
+﻿origin	https://github.com/Uday111-ai/student-predictor.git (fetch)
+origin	https://github.com/Uday111-ai/student-predictor.git (push)
